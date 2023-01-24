@@ -4,7 +4,17 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   images: {
-    domains: ['api.lorem.space', 'cdn.pixabay.com', 'placeimg.com', 'www.libreriahuequito.com', 'thumbs.dreamstime.com'],
+    domains: [
+      'api.lorem.space',
+      'cdn.pixabay.com',
+      'placeimg.com',
+      'www.libreriahuequito.com',
+      'thumbs.dreamstime.com',
+      'www.pexels.com',
+      'empresas.blogthinkbig.com',
+      'm.media-amazon.com',
+      'upload.wikimedia.org',
+    ],
   },
 };
 
